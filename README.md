@@ -1,2 +1,2 @@
-# EclipseJavaPractice
-Eclipse Java 연습 문제
+# JavaSimplePractice
+Java 연습 문제
